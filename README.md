@@ -4,7 +4,7 @@ My name is Khushi Yadav.I passed my+2class from T.S.S.M.Senior Secondary school.
 My hobbies are book reading and playing badminton. I am enjoying it.
 # My excel certificate :
 
-![alt text](Khushi.jpg)
+![alttext](Khushi.jpg)
 
 # Induction Program 
 # Day1 
