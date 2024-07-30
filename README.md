@@ -5,6 +5,7 @@ My hobbies are book reading and playing badminton. I am enjoying it.
 # My excel certificate :
 
 ![alt text](Khushi.jpg)
+
 # Induction Program 
 # Day1 
 kirtan and Ardaas, auditorium session about history of college and alumni interaction.
